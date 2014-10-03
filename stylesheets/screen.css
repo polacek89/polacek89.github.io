@@ -367,6 +367,17 @@ Full-Width Styles
   top:200px;
 }
 
+#side_bar a {
+  display:block;
+  padding: 10px 50px 10px 10px;
+  color: #fff;
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
 #footer_wrap {
   background: #212121;
 }
