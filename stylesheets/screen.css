@@ -362,6 +362,11 @@ Full-Width Styles
   padding-top: 40px;
 }
 
+#side_bar {
+  position:absolute;
+  top:200px;
+}
+
 #footer_wrap {
   background: #212121;
 }
