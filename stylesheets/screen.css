@@ -382,6 +382,20 @@ Full-Width Styles
   background: #212121;
 }
 
+.bannerImage img{
+  position: absolute;
+  margin: 0 auto;
+  display: block;
+  padding: 5px;
+  width= 100%;
+  left: -620px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid #ebebeb;
+  box-shadow: 0 0 5px #ebebeb;
+  -webkit-box-shadow: 0 0 5px #ebebeb;
+}
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
