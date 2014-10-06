@@ -383,7 +383,7 @@ Full-Width Styles
 }
 
 .bannerImage img{
-  position: absolute;
+  position: relative;
   margin: 0 auto;
   display: block;
   padding: 5px;
