@@ -382,7 +382,9 @@ Full-Width Styles
   background: #212121;
 }
 
-
+.sidelinks a{
+  color:red;
+}
 
 /*******************************************************************************
 Small Device Styles
