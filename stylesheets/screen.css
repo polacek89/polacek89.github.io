@@ -371,7 +371,7 @@ Full-Width Styles
   display:block;
   padding: 10px 50px 10px 10px;
   color: #fff;
-  background: #0090ff;
+  background: #B20000;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
@@ -380,10 +380,6 @@ Full-Width Styles
 
 #footer_wrap {
   background: #212121;
-}
-
-.sidelinks a{
-  background: #B20000;
 }
 
 /*******************************************************************************
