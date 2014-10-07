@@ -247,9 +247,6 @@ form {
   padding: 20px;
 }
 
-.bannerImage img{
-  position:absolute;
-}
 
 /*******************************************************************************
 Full-Width Styles
@@ -264,6 +261,10 @@ Full-Width Styles
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
+}
+
+.inner img{
+  position:absolute;
 }
 
 #forkme_banner {
