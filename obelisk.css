@@ -34,6 +34,9 @@
   #group2 {
     z-index: 3; /* slide under groups 1 and 3 */
   }
+  #group2 iframe {
+    width:1870;
+  }
 
   #group2 .parallax__layer--back {
     background: rgb(16,30,40);
