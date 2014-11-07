@@ -31,6 +31,9 @@
   #group2 {
     z-index: 3; /* slide under groups 1 and 3 */
   }
+  #group2 img {
+    width:100%;
+  }
   #group2 .parallax__layer--back {
     background: rgb(123,210,102);
   }
