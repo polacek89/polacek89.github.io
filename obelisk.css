@@ -27,9 +27,6 @@
   #group1 .parallax__layer--base {
    
   }
-  #group1 img {
-    width:100%;
-  }
 
   #group2 {
     z-index: 3; /* slide under groups 1 and 3 */
@@ -47,6 +44,9 @@
   }
   #group3 .parallax__layer--base {
     background: rgb(16,30,40);
+  }
+  #group3 img {
+    width:100%;
   }
 
   #group4 {
