@@ -22,7 +22,7 @@
   --------------------------------------------- */
 
   #group1 {
-    z-index: 5; /* slide over group 2 */
+    z-index: 1; /* slide under all */
   }
   #group1 .parallax__layer--base {
     background: rgb(102,204,102);
