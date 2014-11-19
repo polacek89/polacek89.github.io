@@ -96,3 +96,11 @@ body {
 {
   width:100%;
 }
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+#element::-webkit-scrollbar { 
+    display: none; 
+}
